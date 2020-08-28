@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yufei.demo</groupId>
-    <artifactId>netty</artifactId>
+    <artifactId>myBoot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>nettyDemo</name>
+    <name>myBoot</name>
     <description>Demo project for yufei netty</description>
 
     <properties>
