@@ -12,3 +12,5 @@
         </dependency>
 ```
 在netty4.1之前的版本中使用ChannelHandlerContext.channle设置arrt 是通过channle设置属性 不同handle之间也是相同的属性
+
+博客地址： https://blog.csdn.net/linuu/article/details/51502136
