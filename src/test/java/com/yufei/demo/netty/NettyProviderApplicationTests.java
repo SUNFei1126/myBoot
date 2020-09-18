@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @SpringBootTest
-class NettyDemoApplicationTests {
+class NettyProviderApplicationTests {
 
     @Test
     void contextLoads() {

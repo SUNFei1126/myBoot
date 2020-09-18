@@ -1,4 +1,4 @@
-package com.yufei.demo.netty.Domo;
+package com.yufei.demo.netty.demo;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +24,10 @@ import java.util.concurrent.TimeUnit;
 public class ThreadPoolDemo {
 
     public static void main(String[] args) throws InterruptedException {
-        poolTest();
+//        poolTest();
+        Byte a = 0;
+        Integer b =0;
+        System.out.println(a.equals(b.byteValue()));
     }
 
 
